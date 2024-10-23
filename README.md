@@ -1,0 +1,1 @@
+This is a website project to show my knowledge of basic html. This is mainly an exercise to get used to the git workflow and to hone my coding skills. Maybe I will also learn a delicious recipe along the way.
